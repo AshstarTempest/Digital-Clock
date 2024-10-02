@@ -36,7 +36,7 @@ The application provides a user-friendly interface to switch between these funct
 3. Run the following command to execute the script:
 
     ```bash
-    python your_script_name.py
+    python proclock.py
     ```
 
 4. The application window will appear with buttons for switching between the Digital Clock, Analog Clock, Stopwatch, and Timer.
