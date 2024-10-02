@@ -68,9 +68,14 @@ The digital clock is styled with a sleek, modern look, featuring:
 
 You can modify the `style_digital_clock()` function in the script to further customize the appearance.
 
-## Example Screenshot
+## Demo Video
 
-[Include a screenshot of the application here, if possible]
+Check out this demo video showcasing the application:
+
+[![Clock, Stopwatch, Timer, and Analog Clock Application](https://img.youtube.com/vi/3LZpN8oxktg/0.jpg)](https://youtu.be/3LZpN8oxktg)
+
+[Watch on YouTube](https://youtu.be/3LZpN8oxktg)
+
 
 ## Future Enhancements
 
